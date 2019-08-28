@@ -1,0 +1,2 @@
+class DecryptionKey < ApplicationRecord
+end
